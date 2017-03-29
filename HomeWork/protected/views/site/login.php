@@ -12,7 +12,8 @@ $this->breadcrumbs=array(
 <h1>Login</h1>
 
 <p>Please fill out the following form with your login credentials:</p>
-
+<p>User: Admin</p>
+<p>Pass: Admin :)</p>
 <div class="form">
 <?php $form=$this->beginWidget('CActiveForm', array(
 	'id'=>'login-form',
